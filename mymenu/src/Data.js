@@ -4,14 +4,14 @@ const menu = [
         title: 'Crispy Calamri',
         category: 'Starters',
         // price: 15.99,
-        desc: `Fresh cornflower battered squid and prepared with garlic`,
+        desc: `Fresh cornflower battered squid, prepared with garlic and served with sweet chilli sauce`,
     },
     {
         id: 2,
         title: 'Salmon',
         category: 'Mains',
         // price: 13.99,
-        desc: ` Honey Glazed salmon served with fresh white rice`,
+        desc: `Honey glazed salmon served with fresh white rice`,
     },
     {
         id: 3,
@@ -51,7 +51,7 @@ const menu = [
     },
     {
         id: 8,
-        title: 'Bonless thighs & rice',
+        title: 'Bonless Thighs & Rice',
         category: 'Mains',
         // price: 12.99,
         desc: `4 pieces of freshly grilled chicken thighs served with fresh white rice `,
@@ -65,7 +65,7 @@ const menu = [
     },
     {
         id: 10,
-        title: 'Alfredo pasta and garlic prawns',
+        title: 'Alfredo Pasta and Garlic Prawns',
         category: 'Mains',
         // price: 16.99,
         desc: `Creamy authentic italian pasta served with king prawns`,
