@@ -25,7 +25,7 @@ function App() {
         <main>
             <section className="menu section">
                 <div className="title">
-                    <img src={logo} alt="logo" className="logo" />
+                    {/* <img src={logo} alt="logo" className="logo" /> */}
                     <h2>Menu</h2>
                     <div className="underline"></div>
                 </div>
