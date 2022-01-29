@@ -1,0 +1,88 @@
+const menu = [
+    {
+        id: 1,
+        title: 'Crispy Calamri',
+        category: 'Starters',
+        // price: 15.99,
+        desc: `Fresh cornflower battered squid and prepared with garlic`,
+    },
+    {
+        id: 2,
+        title: 'Salmon',
+        category: 'Mains',
+        // price: 13.99,
+        desc: ` Honey Glazed salmon served with fresh white rice`,
+    },
+    {
+        id: 3,
+        title: 'Lotus Biscoff Cups',
+        category: 'desserts',
+        // price: 6.99,
+        desc: `2 Homemade Lotus Biscoff cups served with ice cream `,
+    },
+    {
+        id: 4,
+        title: 'Prawn Tempura',
+        category: 'Starters',
+        // price: 20.99,
+        desc: `6 pieces of deep fried crispy tiger prawn, served with sweet chilli sauce.
+        `,
+    },
+    {
+        id: 5,
+        title: 'Salmon Sushi',
+        category: 'Mains',
+        // price: 22.99,
+        desc: `spicy salmon sushi roll recipe with avocado and cucumber, served with sweet chilli and soy sauce.`,
+    },
+    {
+        id: 6,
+        title: 'Tiramsu',
+        category: 'desserts',
+        // price: 18.99,
+        desc: `Coffee sponges layered with mascarpone cream covered with chocolate shavings`,
+    },
+    {
+        id: 7,
+        title: 'Lemon Pepper Wings',
+        category: 'Starters',
+        // price: 8.99,
+        desc: `Classic chicken wings seasoned with homemade lemon pepper seasoning`,
+    },
+    {
+        id: 8,
+        title: 'Bonless thighs & rice',
+        category: 'Mains',
+        // price: 12.99,
+        desc: `4 pieces of freshly grilled chicken thighs served with fresh white rice `,
+    },
+    {
+        id: 9,
+        title: 'Cookie Dough',
+        category: 'desserts',
+        // price: 16.99,
+        desc: `Freshly baked milk chocolate cookie dough, served with Gelato`,
+    },
+    {
+        id: 10,
+        title: 'Alfredo pasta and garlic prawns',
+        category: 'Mains',
+        // price: 16.99,
+        desc: `Creamy authentic italian pasta served with king prawns`,
+    },
+    {
+        id: 11,
+        title: 'Turkish Bread',
+        category: 'Starters',
+        // price: 16.99,
+        desc: `Authentic Turkish bread`,
+    },
+    {
+        id: 12,
+        title: 'School Cake',
+        category: 'desserts',
+        // price: 16.99,
+        desc: `Sprinkled School Cake served with gelato`,
+    },
+];
+export default menu;
